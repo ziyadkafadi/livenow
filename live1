@@ -1,1 +1,4 @@
-https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F47%2Findex.m3u8&token=bbb3a5fdfc93d9a371e5a59442afd766d843aa55&is_vip=false&verify=1707458400-bCrFJ6XctX5aDh2qabn%2FqexRY%2BTY%2F9jI%2FP%2BRjqB5sJ0%3D
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=694985,RESOLUTION=1280x720,CODECS="avc1.640020,mp4a.40.2"
+https://livecdn.rumsport.com/stream/47/chunks.m3u8?token=bbb3a5fdfc93d9a371e5a59442afd766d843aa55&is_vip=false&verify=1707461160-gpcfM0pGiUJe99ILtPNmDVwMtzW6H1VCfqrY9%2FkncF4%3D
